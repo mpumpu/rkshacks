@@ -1,2 +1,2 @@
 # rkshacks
-practice tool for Rosenkreuzstilette and Rosenkreuzstilette Freudenstachel
+speedrun practice tool for Rosenkreuzstilette and Rosenkreuzstilette Freudenstachel
